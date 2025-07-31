@@ -1,0 +1,13 @@
+body {background-image: url("pastel.defondo.avif");
+    ;
+;
+}
+
+.flex-container{
+    display: flex;
+    background-color: floralwhite;
+    margin: 20px
+    justify-content: space;
+    ;
+}
+}
